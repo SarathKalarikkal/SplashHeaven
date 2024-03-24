@@ -19,6 +19,7 @@ body{
 }
 .hero-banner .row{
     height: 600px;
+    padding-bottom: 6rem;
 }
 .underline{
     width: 15%;
